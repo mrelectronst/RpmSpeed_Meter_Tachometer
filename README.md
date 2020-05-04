@@ -1,2 +1,5 @@
 # RpmSpeed_Meter
- Tachometer using atmega328p and 3144 hall sensor
+Rpm and Speed Meter (Tachometer)
+Built using Atmega328, 3144 Hall efect sensor and 16x2 LCD Screen
+
+Project Video : 
